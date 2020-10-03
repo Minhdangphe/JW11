@@ -15,7 +15,7 @@ public class main {
 
 
             PreparedStatement preparedStatement = myConnection.prepape("SELECT * FROM category");
-            ResultSet
+           
             System.out.println("ID\t\tNAME\t\t\t\t\tDELETE");
 
 
